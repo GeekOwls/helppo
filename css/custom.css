@@ -1,6 +1,5 @@
 body {
-  font-family: 'Open sans', sans-serif;
-  text-shadow: 0px 1px 1px rgb(255, 255, 255);
+  font-family: 'Open sans', sans-serif;);
   color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -24,6 +23,11 @@ h3 {
 /* 
 Loading section
 */
+
+.progress {
+  margin-top: 25px;
+  background-color: #443d36;
+}
 
 .se-pre-con {
   position: fixed;
