@@ -1,11 +1,13 @@
 body {
-  font-family: 'Open sans', sans-serif;);
+  font-family: 'Open sans', sans-serif;
   color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-color: #f1f1f1;
+  background: url("../images/night_bg.jpg") no-repeat center center fixed;
+  background-size: cover;
 }
 
 h1 {
@@ -170,6 +172,8 @@ Footer and copyright section
 */
 
 .copyright {
+
+  bottom: 0px;
   margin: 30px 0px 20px 0px;
   color: #777777;
   font-size: 11px;
@@ -202,7 +206,7 @@ h2,
 h3 {
   margin-top: 8px;
   margin-bottom: 0px;
-  color: #464646
+  color: #ffffff
 }
 
 /*--- THE MAGIC ---*/
